@@ -1,0 +1,2 @@
+# tinycore-py
+Python script
